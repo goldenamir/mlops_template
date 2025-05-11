@@ -1,0 +1,4 @@
+author: amir_vahed
+model_type: scikit-learn_0.23
+project_name: my_sample_mlops_project
+project_version: v0.1
